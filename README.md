@@ -23,6 +23,16 @@ https://public.tableau.com/shared/KGRRBJ9NK?:display_count=n&:origin=viz_share_l
 - Trips are mostly during commuting hours, with Thursdays having the most riders
 - Most riders are male 
 
+<img width="982" alt="image" src="https://user-images.githubusercontent.com/86166117/139376359-87390d28-674f-43e7-b5c9-11a8c1464b4b.png">
+<img width="972" alt="image" src="https://user-images.githubusercontent.com/86166117/139376381-102752b3-1bd3-4399-b7b6-21c5603c08dd.png">
+<img width="978" alt="image" src="https://user-images.githubusercontent.com/86166117/139376402-2ee2e2fc-4b4c-460c-8e4d-dd33e79ab32b.png">
+<img width="972" alt="image" src="https://user-images.githubusercontent.com/86166117/139376732-20aa44ac-6255-4e60-b9f9-143843a55687.png">
+<img width="992" alt="image" src="https://user-images.githubusercontent.com/86166117/139376750-7d5dfa42-f3cf-4f79-a4be-1b5503ad3eec.png">
+<img width="989" alt="image" src="https://user-images.githubusercontent.com/86166117/139376764-25bcb5cf-d2b4-490e-bdc3-a9c2f0fcad2f.png">
+<img width="984" alt="image" src="https://user-images.githubusercontent.com/86166117/139376792-80a8e15b-a42c-4e25-9d45-850ad2a4e8ed.png">
+<img width="995" alt="image" src="https://user-images.githubusercontent.com/86166117/139376817-b367159b-3273-41b7-bbf3-5a39956454c6.png">
+
+
 
 
 ## Summary
